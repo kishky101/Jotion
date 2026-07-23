@@ -13,7 +13,7 @@
   </p>
 
   <p align="center">
-    <a href="https://notes-app-red-kappa.vercel.app"><strong>🚀 Live Demo</strong></a>
+    🚀 <a href="https://notes-app-red-kappa.vercel.app"><strong>Live Demo</strong></a>
   </p>
 </p>
 
