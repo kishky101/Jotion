@@ -1,7 +1,6 @@
 # Jotion
 
 <p align="center">
-  <img src="./public/logo.png" alt="Jotion Logo" width="100" />
 
   <h1 align="center">Jotion</h1>
 
@@ -27,20 +26,6 @@ Jotion is a full-stack document management application that enables users to cre
 The application combines a serverless backend with a rich-text editing experience, hierarchical document organization, real-time synchronization, and secure authentication to deliver a responsive writing environment suitable for personal knowledge management.
 
 Unlike traditional CRUD applications, Jotion demonstrates engineering concepts such as recursive document structures, authenticated serverless mutations, reusable component architecture, real-time data synchronization, and modern React development using the Next.js App Router.
-
----
-
-## Screenshots
-
-> Replace these placeholders with screenshots of your application.
-
-| Landing Page | Workspace |
-|--------------|-----------|
-| ![](docs/screenshots/landing.png) | ![](docs/screenshots/workspace.png) |
-
-| Rich Text Editor | Published Document |
-|------------------|--------------------|
-| ![](docs/screenshots/editor.png) | ![](docs/screenshots/public-document.png) |
 
 ---
 
